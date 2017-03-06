@@ -4,7 +4,7 @@ Create simple Qubic Splines with direct lookup for regular (log,linear,etc.) spa
 
 Author: Hans A. Winther (2013), University of Oslo E-mail: hans.a.winther@gmail.com
 
- - Templated on the type: QubicSpline<Type>
+ - Templated on the type: QubicSpline\<Type\>
    DSpline == QubicSpline<double>
    FSpline == QubicSpline<float>
 
